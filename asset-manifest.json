@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/fpp2/static/css/main.f855e6bc.css",
-    "main.js": "/fpp2/static/js/main.36763704.js",
+    "main.css": "/fpp2/static/css/main.64438235.css",
+    "main.js": "/fpp2/static/js/main.ab9e4054.js",
     "static/js/453.05d6df14.chunk.js": "/fpp2/static/js/453.05d6df14.chunk.js",
-    "static/media/logo.svg": "/fpp2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/hamza-siddiqui.png": "/fpp2/static/media/hamza-siddiqui.c3eaf999c9e0e067e45e.png",
+    "static/media/main-bg.jpeg": "/fpp2/static/media/main-bg.cf8ec81dfd915cdad879.jpeg",
+    "static/media/SKP-logo.jpg": "/fpp2/static/media/SKP-logo.35d42b58c43e40c9e008.jpg",
     "index.html": "/fpp2/index.html",
-    "main.f855e6bc.css.map": "/fpp2/static/css/main.f855e6bc.css.map",
-    "main.36763704.js.map": "/fpp2/static/js/main.36763704.js.map",
+    "main.64438235.css.map": "/fpp2/static/css/main.64438235.css.map",
+    "main.ab9e4054.js.map": "/fpp2/static/js/main.ab9e4054.js.map",
     "453.05d6df14.chunk.js.map": "/fpp2/static/js/453.05d6df14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.36763704.js"
+    "static/css/main.64438235.css",
+    "static/js/main.ab9e4054.js"
   ]
 }
