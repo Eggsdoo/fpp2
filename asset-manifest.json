@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/fpp2/static/css/main.24a65123.css",
-    "main.js": "/fpp2/static/js/main.5401d8fd.js",
+    "main.css": "/fpp2/static/css/main.027fbecc.css",
+    "main.js": "/fpp2/static/js/main.5592fc65.js",
     "static/js/453.05d6df14.chunk.js": "/fpp2/static/js/453.05d6df14.chunk.js",
     "static/media/ammaz-baig-nip.png": "/fpp2/static/media/ammaz-baig-nip.1aafc1468a540de7ee40.png",
     "static/media/main-bg.jpeg": "/fpp2/static/media/main-bg.cf8ec81dfd915cdad879.jpeg",
     "static/media/NIP-logo-white.png": "/fpp2/static/media/NIP-logo-white.b6ac7719779d2bd45d7f.png",
     "index.html": "/fpp2/index.html",
-    "main.24a65123.css.map": "/fpp2/static/css/main.24a65123.css.map",
-    "main.5401d8fd.js.map": "/fpp2/static/js/main.5401d8fd.js.map",
+    "main.027fbecc.css.map": "/fpp2/static/css/main.027fbecc.css.map",
+    "main.5592fc65.js.map": "/fpp2/static/js/main.5592fc65.js.map",
     "453.05d6df14.chunk.js.map": "/fpp2/static/js/453.05d6df14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24a65123.css",
-    "static/js/main.5401d8fd.js"
+    "static/css/main.027fbecc.css",
+    "static/js/main.5592fc65.js"
   ]
 }
