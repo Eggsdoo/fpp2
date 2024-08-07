@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fpp2/static/css/main.8cbc8e74.css",
-    "main.js": "/fpp2/static/js/main.7fb1dc23.js",
+    "main.css": "/fpp2/static/css/main.b84cf165.css",
+    "main.js": "/fpp2/static/js/main.8ed5974f.js",
     "static/js/453.05d6df14.chunk.js": "/fpp2/static/js/453.05d6df14.chunk.js",
     "static/media/6.png": "/fpp2/static/media/6.d7b636cbbfdd4116b6f1.png",
     "static/media/8.png": "/fpp2/static/media/8.f3b2a1b93d2aae2ea5bf.png",
@@ -9,16 +9,16 @@
     "static/media/20.png": "/fpp2/static/media/20.3331f0b0ac083c94447f.png",
     "static/media/2.png": "/fpp2/static/media/2.4b4958bcc27b8a0fdcc3.png",
     "static/media/ammaz-baig-nip.png": "/fpp2/static/media/ammaz-baig-nip.1aafc1468a540de7ee40.png",
-    "static/media/main-bg.jpeg": "/fpp2/static/media/main-bg.cf8ec81dfd915cdad879.jpeg",
+    "static/media/nt-bg.jpg": "/fpp2/static/media/nt-bg.4347ac8d91ff55c6bcaf.jpg",
     "static/media/NIP-Campaign.pdf": "/fpp2/static/media/NIP-Campaign.c93351ed04c8938e5a79.pdf",
     "static/media/NIP-logo-white.png": "/fpp2/static/media/NIP-logo-white.b6ac7719779d2bd45d7f.png",
     "index.html": "/fpp2/index.html",
-    "main.8cbc8e74.css.map": "/fpp2/static/css/main.8cbc8e74.css.map",
-    "main.7fb1dc23.js.map": "/fpp2/static/js/main.7fb1dc23.js.map",
+    "main.b84cf165.css.map": "/fpp2/static/css/main.b84cf165.css.map",
+    "main.8ed5974f.js.map": "/fpp2/static/js/main.8ed5974f.js.map",
     "453.05d6df14.chunk.js.map": "/fpp2/static/js/453.05d6df14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cbc8e74.css",
-    "static/js/main.7fb1dc23.js"
+    "static/css/main.b84cf165.css",
+    "static/js/main.8ed5974f.js"
   ]
 }
