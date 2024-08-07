@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fpp2/static/css/main.79257637.css",
+    "main.css": "/fpp2/static/css/main.8cbc8e74.css",
     "main.js": "/fpp2/static/js/main.7fb1dc23.js",
     "static/js/453.05d6df14.chunk.js": "/fpp2/static/js/453.05d6df14.chunk.js",
     "static/media/6.png": "/fpp2/static/media/6.d7b636cbbfdd4116b6f1.png",
@@ -13,12 +13,12 @@
     "static/media/NIP-Campaign.pdf": "/fpp2/static/media/NIP-Campaign.c93351ed04c8938e5a79.pdf",
     "static/media/NIP-logo-white.png": "/fpp2/static/media/NIP-logo-white.b6ac7719779d2bd45d7f.png",
     "index.html": "/fpp2/index.html",
-    "main.79257637.css.map": "/fpp2/static/css/main.79257637.css.map",
+    "main.8cbc8e74.css.map": "/fpp2/static/css/main.8cbc8e74.css.map",
     "main.7fb1dc23.js.map": "/fpp2/static/js/main.7fb1dc23.js.map",
     "453.05d6df14.chunk.js.map": "/fpp2/static/js/453.05d6df14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79257637.css",
+    "static/css/main.8cbc8e74.css",
     "static/js/main.7fb1dc23.js"
   ]
 }
